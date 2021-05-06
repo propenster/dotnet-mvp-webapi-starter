@@ -73,6 +73,8 @@ cd dotnet-mvp-webapi-starter/DotNetWebAPIMVPStarter
 # Run Migrations at the Package Manager Console 
 Add-Migration initialMigration 
 
+# Update Database
+Update-Database
 # Build and Run the API for the first time. 
 
 dotnet run
