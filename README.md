@@ -139,22 +139,7 @@ Project Structure
 | **config**/broadcasting.php              | Configuration for broadcasting                               |
 | **config**/cache.php                     | Configuration for cache generation and storage               |
 | **controllers**/StripeController.php     | Controller for Stripe API functionality                      |
-| **controllers**/TwilioController.php     | Controller for Twilio API functionality                      |
-| **controllers**/TwitterController.php    | Controller for Twitter API functionality                     |
-| **controllers**/WebScrapingController.php| Controller for Web Scraping.                                 |
-| **controllers**/YahooController.php      | Controller for Yahoo API functionality                       |
-| **controllers**/user.js                  | Controller for user account management.                      |
-| **models**/User.php                      | Model for User.                                             |
-| **public**/                              | Static assets (fonts, css, js, img).                         |
-| **public**/**css**/main.css              | Main stylesheet for your app.                                |
-| **resources/views/account**/             | Templates for *login, password reset, signup, profile*.      |
-| **views/api**/                           | Templates for API Examples.                                  |
-| **views/partials**/alerts.blade.php      | Error, info and success flash notifications.                 |
-| **views/partials**/navbar.blade.php      | Navbar partial template.                                     |
-| **views**/layouts**/master.blade.php     | Base template.                                               |
-| **views**/apidashboard.blade.php         | API dashboard template.                                      |
-| **views**/contact.blade.php              | Contact page template.                                       |
-| **views**/welcome.blade.php              | Home page template.                                          |
+| **controllers**/TwilioController.php     | Controller for Twilio API functionality                       |
 | .travis.yml                              | [Travis CI](https://travis-ci.org/) integration.             |
 | .env.example                             | Your API keys, tokens, passwords and database URI.           |
 | composer.json                            | File for loading all php packages.                           |
@@ -170,16 +155,6 @@ Dependencies
 | socialite                       | Sign-in with Facebook, Twitter and Github                             |
 | socialite providers             | Sign-in with LinkedIn, Instagram                                      |
 | cloudder                        | Upload images to Cloudinary                                           |
-| laravel github                  | Github API library                                                    |
-| clockwork                       | Clockwork SMS API library.                                            |
-| goutte                          | Scrape web pages using jQuery-style syntax.                           |
-| laravel framework               | PHP web framework                                                     |
-| twitter                         | Twitter API library                                                   |
-| twilio                          | Twilio API library                                                    |
-| lob-php                         | Lob API library                                                       |
-| lastfm-api-wrapper              | Lastfm API library                                                    |
-| phpunit                         | PHP testing library                                                   |
-| guzzlehttp                      | Simplified HTTP Request library                                 
 
  
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Windows_Azure_logo.png" width="200">
