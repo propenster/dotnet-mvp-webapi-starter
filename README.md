@@ -138,30 +138,6 @@ Project Structure
 | **config**/auth.php                      | Configuration for password resets                            |
 | **config**/broadcasting.php              | Configuration for broadcasting                               |
 | **config**/cache.php                     | Configuration for cache generation and storage               |
-| **config**/cloudder.php                  | Configuration for cloudinary                                 |
-| **config**/compile.php                   | Configuration for compilation                                |
-| **config**/database.php                  | Configuration for database drivers                           |
-| **config**/filesystems.php               | Configuration for different file systems                     |
-| **config**/github.php                    | Configuration for github API                                 |
-| **config**/mail.php                      | Configuration for mails                                      |
-| **config**/queue.php                     | Configuration for queue                                      |
-| **config**/services.php                  | Configuration for several services like mailgun etc.         |
-| **config**/session.php                   | Configuration for sessions                                   |
-| **config**/ttwitter.php                  | Twitter API config file                                      |
-| **config**/twilio.php                    | Twilio API config file                                       |
-| **config**/view.php                      | Configuration for location of views and view cache           |
-| **controllers**/AccountController.php    | Controller for Account management                            |
-| **controllers**/AviaryController.php     | Controller for Aviary API functionality                      |
-| **controllers**/ClockworkController.php  | Controller for Clockwork API functionality                   |
-| **controllers**/ContactController.php    | Controller for Contact page                                  |
-| **controllers**/Controller.php           | BaseController                                               |
-| **controllers**/GithubController.php     | Controller for Github API functionality                      |
-| **controllers**/LastFmController.php     | Controller for LastFM API functionality                      |
-| **controllers**/LobController.php        | Controller for Lob API functionality.                        |
-| **controllers**/NytController.php        | Controller for New York Times API functionality              |
-| **controllers**/OauthController.php      | Controller for Oauthentication                               |
-| **controllers**/PaypalController.php     | Controller for Paypal API functionality                      |
-| **controllers**/SteamController.php      | Controller for Stream API functionality                      |
 | **controllers**/StripeController.php     | Controller for Stripe API functionality                      |
 | **controllers**/TwilioController.php     | Controller for Twilio API functionality                      |
 | **controllers**/TwitterController.php    | Controller for Twitter API functionality                     |
