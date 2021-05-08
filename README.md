@@ -51,6 +51,8 @@ Prerequisites
  - <img src="https://global-uploads.webflow.com/5ea1b599e88dc9edc465e8f5/5ea8b30dd43a0b44bbc91bd8_favicon-32x32.png" height="17">&nbsp;**Optic:** `npm install -g @useoptic/cli` (needed for automatic documentation)
 
 **Note:** 
+
+
 Getting Started
 ---------------
 
@@ -149,7 +151,7 @@ Thank you for considering contributing to the project. Kindly create an issue an
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel Hackathon Starter, please send an e-mail to Prosper Otemuyiwa at prosperotemuyiwa@gmail.com. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel Hackathon Starter, please send an e-mail to Prosper Otemuyiwa at ffaitholusegun60@gmail.com. All security vulnerabilities will be promptly addressed.
 
 ## Credits
 
