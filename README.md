@@ -50,10 +50,7 @@ Prerequisites
  - <img src="https://en.opensuse.org/images/b/be/Logo-geeko_head.png" height="17">&nbsp;**OpenSUSE:** `sudo zypper install --type pattern devel_basis`
  - <img src="https://global-uploads.webflow.com/5ea1b599e88dc9edc465e8f5/5ea8b30dd43a0b44bbc91bd8_favicon-32x32.png" height="17">&nbsp;**Optic:** `npm install -g @useoptic/cli` (needed for automatic documentation)
 
-**Note:** If you are new to Laravel, I recommend to watch
-[Laravel From Scratch](https://laracasts.com/series/laravel-5-from-scratch) screencast by Jeffery Way that teaches Laravel 5 from scratch. Alternatively,
-here is another great tutorial for building a project management app for beginners/intermediate developers - [How to build a project management app in Laravel 5](http://goodheads.io/2015/09/16/how-to-build-a-project-management-app-in-laravel-5-part-1/).
-
+**Note:** 
 Getting Started
 ---------------
 
