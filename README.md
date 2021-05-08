@@ -134,17 +134,7 @@ Project Structure
 
 | Name                                     | Description                                                  |
 | ----------------------------------       | ------------------------------------------------------------ |
-| **config**/app.php                       | Configuration for service providers and facades              |
-| **config**/auth.php                      | Configuration for password resets                            |
-| **config**/broadcasting.php              | Configuration for broadcasting                               |
-| **config**/cache.php                     | Configuration for cache generation and storage               |
-| **controllers**/StripeController.php     | Controller for Stripe API functionality                      |
-| **controllers**/TwilioController.php     | Controller for Twilio API functionality                       |
-| .travis.yml                              | [Travis CI](https://travis-ci.org/) integration.             |
-| .env.example                             | Your API keys, tokens, passwords and database URI.           |
-| composer.json                            | File for loading all php packages.                           |
-| package.json                             | File for loading all necessary node modules.                 |
-| artisan                                  | File for enabling commands to run                            |
+
 
 
 Dependencies
@@ -156,29 +146,6 @@ Dependencies
 | socialite providers             | Sign-in with LinkedIn, Instagram                                      |
 | cloudder                        | Upload images to Cloudinary                                           |
 
- 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Windows_Azure_logo.png" width="200">
-
-- Login to [Windows Azure Management Portal](https://manage.windowsazure.com/)
-- Click the **+ NEW** button on the bottom left of the portal
-- Click **COMPUTE**, then **WEB APP**, then **QUICK CREATE**
-- Enter a name for **URL** and select the datacenter **REGION** for your web site
-- Click on **CREATE WEB APP** button
-- Once the web site status changes to *Running*, click on the name of the web site to access the Dashboard
-- At the bottom right of the Quickstart page, select **Set up a deployment from source control**
-- Select **Local Git repository** from the list, and then click the arrow
-- To enable Git publishing, Azure will ask you to create a user name and password
-- Once the Git repository is ready, you will be presented with a **GIT URL**
-- Inside your *Hackathon Starter* directory, run `git remote add azure [Azure Git URL]`
-- To push your changes simply run `git push azure master`
- - **Note:** *You will be prompted for the password you created earlier*
-- On **Deployments** tab of your Windows Azure Web App, you will see the deployment history
-
-
-**Note:** Alternative directions, including how to setup the project with a DevOps pipeline are available at [http://ibm.biz/hackstart](http://ibm.biz/hackstart).
-A longer version of these instructions with screenshots is available at [http://ibm.biz/hackstart2](http://ibm.biz/hackstart2).
-Also, be sure to check out the [Jump-start your hackathon efforts with DevOps Services and Bluemix](https://www.youtube.com/watch?v=twvyqRnutss) video.
-
 ## Contributing
 
 Thank you for considering contributing to the project. Kindly create an issue and a new branch like so features/name-of-my-branch for a new feature and bugfixes/name-of-my-branch and also include a test with your code to ensure all is still good. The contribution guide can be found in the [Contribution File](CONTRIBUTING.md)
@@ -188,7 +155,6 @@ Thank you for considering contributing to the project. Kindly create an issue an
 If you discover a security vulnerability within Laravel Hackathon Starter, please send an e-mail to Prosper Otemuyiwa at prosperotemuyiwa@gmail.com. All security vulnerabilities will be promptly addressed.
 
 ## Credits
-* [Sahat Yalkabov](https://github.com/sahat/hackathon-starter) - Awesome
 
 ## How can I thank you?
 
